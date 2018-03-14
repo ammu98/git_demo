@@ -1,0 +1,6 @@
+
+THIS LINE IS 1ST UPPER CASE LINE IN THIS FILE.
+this line is the 1st lower case line in this file.
+This line has ALL ITS First Character of THE Word with Upper Case.
+
+Two LINES ABOVE THIS LINE IS EMPTY.
